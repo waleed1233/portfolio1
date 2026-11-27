@@ -21,4 +21,4 @@ npm run preview
 
 ## Deploy
 
-Vercel / Netlify par repo connect karo — build command `npm run build`, output `dist`.
+Vercel / Connect repo on Netlify — build command `npm run build`, output `dist`.
